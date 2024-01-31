@@ -1,1 +1,1 @@
-# LOL-wr-practice
+# LOL-items-practice-project
